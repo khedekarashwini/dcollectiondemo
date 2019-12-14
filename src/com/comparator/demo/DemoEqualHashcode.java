@@ -46,7 +46,7 @@ public class DemoEqualHashcode {
 	  System.out.println(t1.hashCode());
 	  System.out.println(a1==t1);
 	 */
-	  String s1="Ashu";
+	  String s1="Ashu..";
 	  String s2="Ashu";
 	  String s3=new String("Arti");
 	  String s4=new String("Ashu");
